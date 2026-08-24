@@ -1,0 +1,5 @@
+Copy and paste this into Chrome to open the interface:
+
+http://localhost:5000/
+
+First run START_RETINEXIA.bat (double-click it), then paste the link above.
